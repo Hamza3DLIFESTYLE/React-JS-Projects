@@ -1,13 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import Navbar from "./Components/navbar";
+import Banner from "./Components/banner";
 
 function App() {
-    return ( <
-        div className = "App" >
-        <
-        h1 > Hello Word < /h1> <
-        /div>
-    );
+  return (
+    
+    <>
+    <Navbar/>
+    <Banner/>
+    </>
+  );
 }
 
 export default App;

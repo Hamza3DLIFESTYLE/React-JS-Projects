@@ -1,0 +1,95 @@
+/* h1 {
+    color: brown;
+} */
+/* button {
+    background-color: red;
+} */
+.nabar_s img {
+    width: 11%;
+    margin: 9px 0 0 100px;
+    height: 44px;
+  }
+.nabar_s {
+    background-color: #e6dad1;
+    padding: 9px;
+  }
+.nabar_s ul {
+  list-style: none;
+  display: inline-flex;
+  float: right;
+  margin-right: 84px;
+}
+.nabar_s ul li {
+    padding: 0px 26px 1px 0px;
+    font-size: 17px;
+    font-weight: 500;
+    margin-top: 5px;
+    transition: transform .10s;
+    font-family: "Montserrat", Sans-serif;
+  }
+  .nabar_s ul li:hover {
+    color: #404040;
+  }
+.nabar_s .signIn_btn{
+background-color: #aa2167;
+color: #fff;
+padding: 10px;
+font-weight: 600;
+border: none;
+margin-right: 17px;
+font-family: "Montserrat", Sans-serif;
+}
+.nabar_s .signUp_btn{
+background-color: #0274be;
+color: #fff;
+padding: 10px;
+font-weight: 600;
+border: none;
+font-family: "Montserrat", Sans-serif;
+ }
+ .nabar_s .signIn_btn:hover{
+    color: #fff;
+    background-color:#000;
+    }
+    .nabar_s .signUp_btn:hover{
+        color: #fff;  
+        background-color:#000
+    }
+    .bg_image {
+            background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),url("https://3dlifestyle.ca/wp-content/uploads/2024/05/Doctor-led-weightloss5.png");
+            height: 630px;
+            background-size: cover;
+    }
+    .banner_con {
+        position: absolute;
+        top: 40%;
+        right: 35%;
+        left: 24%;
+        width: 61%;
+      }
+      .banner_con p {
+        color: #000000;
+        font-family: "Montserrat", Sans-serif;
+        font-size: 41px;
+        font-weight: 500;
+        line-height: 34px;
+      }
+.banner_con h2 {
+    color: #004AAD;
+    font-family: "Bebas Neue", Sans-serif;
+    font-size: 51px;
+    font-weight: bold;
+    line-height: 1px;
+  }
+  .banner_con button {
+    background-color: #000;
+    color: #fff;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    background-color: #000;
+    border-radius: 50px 50px 50px 50px;
+    padding: 16px 24px 17px 19px;
+    border: none;
+  }
